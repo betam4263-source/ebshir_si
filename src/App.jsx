@@ -14,7 +14,7 @@ import OrderOtp from "./screen/OrderOtp";
 import ConfirmOrder from "./screen/ConfirmOrder";
 
 // export const serverRoute = "http://localhost:8080";
-export const serverRoute = "https://abshrr-se-1duo.onrender.com";
+export const serverRoute = "https://ebshir-se.onrender.com";
 
 export const banks = [
   {
